@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TrasitWoes {
+public class TransitWoes {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
